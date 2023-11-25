@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-[![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/0-profile-details.svg)]
-[![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)]
-[![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)]
-[![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/3-stats.svg)]
-[![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/4-productive-time.svg)]
+![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/0-profile-details.svg)
+![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/3-stats.svg)
+![](https://raw.githubusercontent.com/mr-anton-t/mr-anton-t/main/profile-summary-card-output/city_lights/4-productive-time.svg)
 
 
 <!--
