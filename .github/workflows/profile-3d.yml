@@ -10,10 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: pull
-        run: | 
-         git reset --hard HEAD
-         git pull
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
