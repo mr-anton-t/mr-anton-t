@@ -16,6 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
+        continue-on-error: true
         run: |
           git config user.name anton-t
           git config user.email anton.tryfanau+run@gmail.com
