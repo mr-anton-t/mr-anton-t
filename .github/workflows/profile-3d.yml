@@ -11,15 +11,15 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         continue-on-error: true
         run: |
-          git config user.name anton-t
-          git config user.email anton.tryfanau+run@gmail.com
+          git config user.name ${{ secrets.USERNAME }}
+          git config user.email ${{ secrets.EMAIL }}
           git add -A .
           git commit -m "generated"
           git push
